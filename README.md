@@ -35,4 +35,4 @@ Allen 2021
 
 [![License: GPL 3.0](https://img.shields.io/github/license/allendema/beauty_reichelt)](https://github.com/allendema/beauty_reichelt/blob/main/LICENSE)
 [![github commits](https://img.shields.io/github/last-commit/allendema/beauty_reichelt)](https://github.com/allendema/beauty_reichelt/commits/main)
-[![Lines of Code](https://img.shields.io/tokei/lines/github/allendema/beauty_reichelt?style=flat-square)](https://github.com/allendema/beauty_reichelt/blob/main/beauty_reichelt)
+[![Lines of Code](https://img.shields.io/tokei/lines/github/allendema/beauty_reichelt?style=flat-square)](https://github.com/allendema/beauty_reichelt/blob/main/beauty_reichelt.py)
